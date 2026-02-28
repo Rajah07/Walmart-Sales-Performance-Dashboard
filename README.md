@@ -172,7 +172,7 @@ As an aspiring Data Analyst, this project showcases my ability to:
 (Add your screenshot here)
 
 ```markdown
-![Walmart Dashboard](walmart_dashboard.png)
+![Walmart Dashboard](Walmart_Dashboard.png)
 ```
 
 ---
