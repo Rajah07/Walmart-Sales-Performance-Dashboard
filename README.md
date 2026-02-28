@@ -169,8 +169,6 @@ As an aspiring Data Analyst, this project showcases my ability to:
 
 ## 📷 Dashboard Preview
 
-(Add your screenshot here)
-
 ```markdown
 ![Walmart Dashboard](Walmart_Dashboard.png)
 ```
