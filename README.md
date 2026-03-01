@@ -6,8 +6,6 @@ This project analyzes Walmart’s global sales performance using an interactive 
 
 The dashboard transforms raw transactional data into meaningful visual insights to support data-driven decision-making.
 
----
-
 ## 🎯 Business Objective
 
 The goal of this analysis is to:
@@ -17,8 +15,6 @@ The goal of this analysis is to:
 * Analyze monthly sales trends
 * Compare Holiday vs Non-Holiday sales
 * Understand sales distribution across regions and sub-categories
-
----
 
 ## 📌 Key KPIs (Performance Summary)
 
@@ -31,8 +27,6 @@ The dashboard highlights four primary performance indicators:
 
 These KPIs provide a quick snapshot of overall business health.
 
----
-
 ## 🌍 Geographic Analysis
 
 The world map visual shows global sales distribution across countries.
@@ -42,8 +36,6 @@ The world map visual shows global sales distribution across countries.
 * Region slicers allow dynamic filtering for targeted analysis
 
 This helps identify high-performing markets and potential growth regions.
-
----
 
 ## 📅 Monthly Sales Trend
 
@@ -55,16 +47,12 @@ The "Sales by Month" line chart shows clear seasonal fluctuations:
 
 This insight is useful for inventory planning and marketing strategies.
 
----
-
 ## 🎉 Holiday vs Non-Holiday Sales
 
 * **Non-Holiday Sales:** 65%
 * **Holiday Sales:** 35%
 
 Although holidays contribute significantly, the majority of revenue comes from regular business days. This indicates strong consistent demand throughout the year.
-
----
 
 ## 🏆 Top 5 Performing Products
 
@@ -78,8 +66,6 @@ The dashboard highlights the highest revenue-generating products:
 
 Technology products dominate the top-performing list, showing strong demand in the tech category.
 
----
-
 ## 📉 Bottom 5 Performing Products
 
 The lowest revenue-generating products include:
@@ -92,8 +78,6 @@ The lowest revenue-generating products include:
 
 These products may require pricing review, marketing push, or discontinuation evaluation.
 
----
-
 ## 🏷️ Sales by Sub-Category
 
 The sub-category analysis shows:
@@ -104,8 +88,6 @@ The sub-category analysis shows:
 
 This breakdown supports product portfolio decisions.
 
----
-
 ## 🎛️ Dashboard Features
 
 * Interactive slicers for Month, Region, and Category
@@ -113,8 +95,6 @@ This breakdown supports product portfolio decisions.
 * Pivot tables and Pivot charts
 * Geo Map visualization
 * Clean and structured UI layout
-
----
 
 ## 🛠️ Tools Used
 
@@ -124,8 +104,6 @@ This breakdown supports product portfolio decisions.
 * Slicers
 * Map Chart
 * Data Cleaning & Aggregation
-
----
 
 ## 💡 Conclusion
 
