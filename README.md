@@ -1,188 +1,138 @@
-# 🛒 Walmart Sales Performance Dashboard (Excel Project)
+# 📊 Walmart Sales Data Dashboard – Project Story
 
-## 📌 Project Overview
+## 🔎 Project Overview
 
-This project is an **interactive Walmart Sales Dashboard** built entirely in Microsoft Excel.
+This project analyzes Walmart’s global sales performance using an interactive Excel dashboard. The objective is to identify key business insights related to sales, profit, product performance, seasonal trends, and regional contribution.
 
-The objective of this project is to analyze Walmart’s global sales performance and identify trends, top-performing products, seasonal patterns, and regional insights using business intelligence techniques.
-
-The dashboard transforms raw transactional data into meaningful KPIs and dynamic visual insights to support data-driven decision-making.
+The dashboard transforms raw transactional data into meaningful visual insights to support data-driven decision-making.
 
 ---
 
-## 🎯 Business Problem
+## 🎯 Business Objective
 
-Walmart operates across multiple regions and product categories.
-The key business questions addressed in this dashboard are:
+The goal of this analysis is to:
 
-* Which regions generate the highest sales?
-* How do Holiday vs Non-Holiday sales compare?
-* Which products are the top and bottom performers?
-* What is the monthly sales trend?
-* Which sub-categories receive the most orders?
-
----
-
-## 📊 Dashboard Overview
-
-The dashboard provides a complete 360° performance view using KPIs, charts, and interactive slicers.
+* Monitor overall business performance
+* Identify top and bottom performing products
+* Analyze monthly sales trends
+* Compare Holiday vs Non-Holiday sales
+* Understand sales distribution across regions and sub-categories
 
 ---
 
-## 🔢 Key Performance Indicators (KPIs)
+## 📌 Key KPIs (Performance Summary)
 
-The top section of the dashboard highlights critical business metrics:
+The dashboard highlights four primary performance indicators:
 
-* 💰 **Total Sales:** 1,264,250
-* 📊 **Average Sales:** 246.49
-* 🔥 **Maximum Sales:** 22,638.48
-* 📉 **Minimum Sales:** 0.44
-* 📈 **Total Profit:** 1,467,457
-* 📦 **Total Orders:** 51,290
+* **Total Sales:** 12,642,501.91
+* **Total Profit:** 1,467,457.29
+* **Average Sales per Order:** 246.49
+* **Total Orders:** 51,290
 
-These KPIs provide a quick snapshot of overall business performance.
+These KPIs provide a quick snapshot of overall business health.
 
 ---
 
-## 🌍 Sales by Region
+## 🌍 Geographic Analysis
 
-This section analyzes how different regions contribute to total revenue.
+The world map visual shows global sales distribution across countries.
 
-**Insights:**
+* The **US contributes the highest sales volume**
+* Other regions like **APAC, EMEA, LATAM, Africa, and Canada** are also included for comparison
+* Region slicers allow dynamic filtering for targeted analysis
 
-* The **Central region** shows the highest sales performance.
-* Some regions contribute significantly less, indicating potential growth opportunities.
-* Regional comparison helps identify strong and weak markets.
-
----
-
-## 🎉 Holiday vs Non-Holiday Sales Comparison
-
-A pie chart compares sales generated during holiday and non-holiday periods.
-
-**Insight:**
-
-* Approximately **65% of sales occur during Non-Holiday periods**
-* Around **35% of sales occur during Holidays**
-
-This shows that regular business periods drive the majority of revenue.
+This helps identify high-performing markets and potential growth regions.
 
 ---
 
-## 🏆 Top 10 Performing Products
+## 📅 Monthly Sales Trend
 
-This section highlights the highest revenue-generating products.
+The "Sales by Month" line chart shows clear seasonal fluctuations:
 
-**Key Observations:**
+* Sales gradually increase toward the year-end
+* Peak performance appears in **November and December**
+* Mid-year dips indicate possible seasonal demand patterns
 
-* The top product generates over **61K in sales**
-* There is a noticeable gap between the first and lower-ranked products
-* High-performing products can be prioritized for promotions and inventory planning
-
----
-
-## 📉 Bottom 10 Performing Products
-
-This analysis identifies low-performing products with minimal sales values.
-
-**Business Value:**
-
-* Helps identify products that may require:
-
-  * Pricing adjustments
-  * Marketing support
-  * Discontinuation evaluation
+This insight is useful for inventory planning and marketing strategies.
 
 ---
 
-## 📅 Sales by Month (Trend Analysis)
+## 🎉 Holiday vs Non-Holiday Sales
 
-This line chart shows monthly sales performance.
+* **Non-Holiday Sales:** 65%
+* **Holiday Sales:** 35%
 
-**Insights:**
-
-* Sales show fluctuations across months.
-* Peak sales appear toward the end of the year (November–December).
-* Seasonal trends can guide inventory and marketing planning.
+Although holidays contribute significantly, the majority of revenue comes from regular business days. This indicates strong consistent demand throughout the year.
 
 ---
 
-## 📦 Sub-Category Wise Orders
+## 🏆 Top 5 Performing Products
 
-This visualization shows order volume by sub-category.
+The dashboard highlights the highest revenue-generating products:
 
-**Insights:**
+1. Apple Smart Phone (Full Size)
+2. Cisco Smart Phone (Full Size)
+3. Motorola Smart Phone (Full Size)
+4. Nokia Smart Phone (Full Size)
+5. Canon imageCLASS Series
 
-* Certain sub-categories like **Binders and Storage** have high order frequency.
-* Lower-order categories may need demand generation strategies.
-
----
-
-## 🎛 Interactive Features
-
-The dashboard includes dynamic slicers for:
-
-* 📆 Month (January–December)
-* 🌎 Region (Africa, APAC, Canada, EMEA, EU, LATAM, US)
-* 🏢 Category (Furniture, Office Supplies, Technology)
-
-All charts and KPIs update dynamically based on slicer selection, making the dashboard fully interactive.
+Technology products dominate the top-performing list, showing strong demand in the tech category.
 
 ---
 
-## 🛠 Tools & Techniques Used
+## 📉 Bottom 5 Performing Products
+
+The lowest revenue-generating products include:
+
+* Eureka Disposable Bags
+* Avery labels
+* Xerox items
+* Grip Seal Envelopes
+* Avery Hi-Liter Pens
+
+These products may require pricing review, marketing push, or discontinuation evaluation.
+
+---
+
+## 🏷️ Sales by Sub-Category
+
+The sub-category analysis shows:
+
+* **Phones and Chairs** as high revenue generators
+* **Tables and Machines** also perform strongly
+* Office supplies show moderate contribution
+
+This breakdown supports product portfolio decisions.
+
+---
+
+## 🎛️ Dashboard Features
+
+* Interactive slicers for Month, Region, and Category
+* Dynamic KPI updates
+* Pivot tables and Pivot charts
+* Geo Map visualization
+* Clean and structured UI layout
+
+---
+
+## 🛠️ Tools Used
 
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
 * Slicers
-* Map Visualization
-* KPI Cards (using shapes and linked cells)
-* Conditional Formatting
-* Data Cleaning & Transformation
+* Map Chart
+* Data Cleaning & Aggregation
 
 ---
 
-## 💡 Business Impact
+## 💡 Conclusion
 
-This dashboard enables:
+This dashboard provides a complete 360° business view of Walmart’s sales data. It enables stakeholders to:
 
-* Identification of high-revenue regions
-* Product performance evaluation
-* Seasonal sales forecasting
-* Strategic inventory planning
-* Data-driven decision making
-
----
-
-## 🚀 What This Project Demonstrates
-
-As an aspiring Data Analyst, this project showcases my ability to:
-
-* Clean and transform business data
-* Design interactive dashboards
-* Extract actionable insights
-* Apply business intelligence concepts
-* Present data in a professional and decision-focused format
-
----
-
-## 📷 Dashboard Preview
-
-```markdown
-![Walmart Dashboard](Walmart_Dashboard.png)
-```
-
----
-
-# ⭐ Conclusion
-
-This Walmart Dashboard project reflects my practical skills in:
-
-* Data Analysis
-* Business Intelligence
-* Excel Dashboard Development
-* Insight Communication
-
-It demonstrates how raw sales data can be converted into strategic business insights using structured analytical thinking.
-
+* Track performance trends
+* Identify profitable product lines
+* Detect underperforming items
+* Analyze seasonal demand
+* Make informed strategic decisions
